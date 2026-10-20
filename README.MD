@@ -1,4 +1,4 @@
-# Simple GET and POST Integration Between Google Sheets and Google Sites
+# Simple GET and POST Google Sheets and Google Sites
 This project demonstrates a simple integration using Google Sheets as the central database and dashboard, 
 with Google Apps Script handling data retrieval (GET) and submission (POST) between Google Sheets and Google Sites.
 The system was developed for the Career Development Program (CDP) Monitoring, allowing employees to check their CDP application progress and view status updates through Google Sites.
